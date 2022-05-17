@@ -17,6 +17,7 @@ import cucumber.api.testng.TestNGCucumberRunner;
 		tags = {"@WikiImdb"},
 		plugin = {
 				"pretty","html:target/cucumber-reports/cucumber.html",
+				"html:target/cucumber-html-report",
 				"json:target/cucumber-reports/cucumber.json",
 				"rerun:target/cucumber-reports/rerun.txt"
 		}
