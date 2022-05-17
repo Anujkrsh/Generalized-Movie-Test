@@ -17,3 +17,5 @@ Pre-requisites- TestNG plugin, Cucumber plugin, Selenium, Maven, IDE (Eclipse,In
 I have also generalised the code so that it could not only work for just one movie but more than that.
 
 Adding some working snapshots-->>
+![Screenshot (3)](https://user-images.githubusercontent.com/60975756/168859829-b265eb76-f2a0-4f73-807e-08508400f827.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/60975756/168859932-4941fd16-f0e9-445b-8c4f-85bcf8150ea5.png)
