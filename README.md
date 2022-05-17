@@ -1,6 +1,6 @@
 # Generalized-Movie-Test
 
-=------------------------------------------------------------------------------Movie Test---------------------------------------------------------------------------------
+-----------------------------------------------------------Movie Test---------------------------------------------------------
 
 IMdb and Wikipedia are two great resources to take information about the movies which were released in past or are releasing in present or will release in future and they really helps the movie buffs to decide what to watch
 
