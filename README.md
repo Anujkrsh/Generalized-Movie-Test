@@ -14,7 +14,7 @@ From both websites i.e. Wikipedia and IMdb, compares the data and validates whet
 
 Pre-requisites- TestNG plugin, Cucumber plugin, Selenium, Maven, IDE (Eclipse,Intellij,Spring Tool Suite,etc..)
 Steps-
--All the required configuretions of Selenium,Cumcumber,maven must already be done in IDE before running project.
+-All the required configuration of Selenium,Cumcumber,maven must already be done in IDE before running project.
 
 -To run the project click on the the project folder Run As>TestNG Test or click on movie test feature and run as cucumber feature 
 file or click on testing.xml and then run as>TestNg Suit.
